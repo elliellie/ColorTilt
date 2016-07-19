@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					AA9A21371D1997B700F7F780 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = KKNB74KNED;
+						DevelopmentTeam = 24Y49CZW5N;
 					};
 					AA9A214E1D1997B800F7F780 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -408,7 +408,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BaseFile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.UWT.leafe.BaseFile;
+				PRODUCT_BUNDLE_IDENTIFIER = colortilt.practice.first;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -422,7 +422,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = BaseFile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.UWT.leafe.BaseFile;
+				PRODUCT_BUNDLE_IDENTIFIER = colortilt.practice.first;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};

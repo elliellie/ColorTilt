@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     let kRad2Deg:Double = 57.2957795
     
     @IBOutlet weak var colorView: UIView!
+    
     @IBOutlet weak var toggleMotion: UISwitch!
     @IBOutlet weak var toggleAccelerometer: UISwitch!
     @IBOutlet weak var toggleGyroscope: UISwitch!
